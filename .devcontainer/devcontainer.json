@@ -11,7 +11,15 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-python.python"
+				"ms-python.python",
+				"zhuangtongfa.material-theme",
+				"ms-python.debugpy",
+				"ms-python.vscode-pylance",
+				"wholroyd.jinja",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"senpai1.discord-vscode-theme",
+				"njpwerner.autodocstring",
+				"GitHub.copilot"
 			]
 		}
 	},
